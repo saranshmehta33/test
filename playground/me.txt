@@ -1,5 +1,0 @@
-{{#user}
-Name: Saransh
-Skills: HTML, CSS, JS, React.js
-Email: saranshmehta3333@gmail.com
-{{/user}}
